@@ -1,5 +1,5 @@
 # Spam-mail-detection
-Spam Mail Detection is an important application of machine learning, which involves building a model to detect spam mails. By using supervised learning techniques, we aim to accurately classify emails as either spam (0) or legitimate (1). Logistic Regression is one of the most popular machine learning algorithms used for this task
+Spam Mail Detection is an important application of machine learning, which involves building a model to detect spam mails. By using supervised learning techniques, we aim to accurately classify emails as either spam (0) or legitimate (1). Logistic Regression is one of the most popular machine learning algorithms used for this task.
 
 ## Key steps
 1. **Importing Dependencies:**
