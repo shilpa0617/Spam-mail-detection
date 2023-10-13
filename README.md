@@ -11,4 +11,4 @@ Spam Mail Detection is an important application of machine learning, which invol
 7. **Building a Predictive System:** The trained model is integrated into a system that can automatically label incoming emails as spam or ham, making your email experience safer and more efficient.
 
   
-The overall goal of this project is to develop a system that can automatically identify and filter out spam emails from a collection of incoming emails. This project aims to enhance email security, reduce the clutter in users' inboxes, and improve the overall email experience by.
+The overall goal of this project is to develop a system that can automatically identify and filter out spam emails from a collection of incoming emails. This project aims to enhance email security, reduce the clutter in users' inboxes, and improve the overall email experience.
